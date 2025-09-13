@@ -1,0 +1,6 @@
+fastmcp
+langchain
+langgraph
+langchain-community
+langchain[openai]
+sqlalchemy

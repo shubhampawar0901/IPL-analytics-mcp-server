@@ -1,0 +1,4 @@
+#all pycache files, venv
+_pycache__
+venv
+.env
